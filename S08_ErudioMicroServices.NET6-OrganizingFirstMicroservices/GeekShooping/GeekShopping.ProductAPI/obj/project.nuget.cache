@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1oSciEoPTSgIwn9zuMet7y1WMpUAA+z8EbnTvyIOFFNHSqInMLnyCMUaCKQKnwZ2oF3MKtYZtC7YUhIqE9fx0Q==",
+  "dgSpecHash": "PL9SoFcVcvqJNScY/IWFDVe7LXA6vm576YvQfBEX1Y9oSzslDOJMa2AuBzrx3RoEget22hYOjILodKAOuWbWIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingTheFirstMicroservicesAchitecture\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingFirstMicroservices\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dougl\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

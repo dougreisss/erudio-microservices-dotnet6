@@ -1901,11 +1901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingTheFirstMicroservicesAchitecture\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingFirstMicroservices\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "projectName": "GeekShopping.ProductAPI",
-      "projectPath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingTheFirstMicroservicesAchitecture\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingFirstMicroservices\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\Dougl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingTheFirstMicroservicesAchitecture\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingFirstMicroservices\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

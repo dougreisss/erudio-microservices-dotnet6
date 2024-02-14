@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ns5GOeOafUTLs7NwIL7vU2mBdxGh7cmwW9xCuKJYUSGOUgC+SmMkit//kBH3fjAz3f+CMDrSLPAbJJNGIIFDRg==",
+  "dgSpecHash": "5TmwA4KR0vZxA6q4qpOSoXVpcgROx5W6IxTaMV+CrTvzEsNxqGQR4xh+IyemLutp7yVbeu7rLdR5bMtuD2KG+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingTheFirstMicroservicesAchitecture\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S08_ErudioMicroServices.NET6-OrganizingFirstMicroservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
