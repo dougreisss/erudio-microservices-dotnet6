@@ -27,7 +27,7 @@ namespace GeekShopping.IdentityServer.Configuration
         {
             new Client
             {
-                ClientId = "client",
+                ClientId = "geek_shopping",
                 ClientSecrets = { new Secret("mysupersecret".Sha256()) },
                 AllowedGrantTypes = GrantTypes.Code,
                 RedirectUris = { "https://localhost:4430/signin-oidc" },
@@ -37,7 +37,7 @@ namespace GeekShopping.IdentityServer.Configuration
                     IdentityServerConstants.StandardScopes.OpenId,
                     IdentityServerConstants.StandardScopes.Profile,
                     IdentityServerConstants.StandardScopes.Email,
-                    "geekshopping"
+                    "geek_shopping"
                 }
             }
         };
