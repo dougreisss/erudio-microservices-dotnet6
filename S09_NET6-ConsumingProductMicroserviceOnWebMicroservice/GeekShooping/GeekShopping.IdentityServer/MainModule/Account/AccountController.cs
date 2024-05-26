@@ -277,6 +277,7 @@ namespace IdentityServerHost.Quickstart.UI
                 var result = await _userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
+                    model.RoleName = "Admin";
                     if (!_roleManager.RoleExistsAsync(model.RoleName).GetAwaiter().GetResult())
                     {
                         var userRole = new IdentityRole
