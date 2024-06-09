@@ -3,6 +3,7 @@ using GeekShopping.CartApi.Config;
 using GeekShopping.CartApi.Model.Context;
 using GeekShopping.CartApi.Repository;
 using GeekShopping.CartApi.Repository.Interface;
+using GeekShopping.CartAPI.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
