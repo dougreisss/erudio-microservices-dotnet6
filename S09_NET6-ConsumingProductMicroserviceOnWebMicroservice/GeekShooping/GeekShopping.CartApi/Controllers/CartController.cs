@@ -1,5 +1,6 @@
 ﻿using GeekShopping.CartApi.Data.ValueObjects;
 using GeekShopping.CartApi.Repository.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,7 +17,7 @@ namespace GeekShopping.CartApi.Controllers
             _cartRepository = cartRepository;
         }
 
-        [HttpGet("find-cart/{id}")]
+        [HttpGet("find-cart")]
         public async Task<ActionResult<CartVO>> FindById(string userId)
         {
             var cart = await _cartRepository.FindCartByUserId(userId);
