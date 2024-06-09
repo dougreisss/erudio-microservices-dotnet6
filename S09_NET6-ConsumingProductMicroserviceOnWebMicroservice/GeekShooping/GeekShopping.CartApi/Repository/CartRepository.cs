@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using GeekShopping.CartApi.Data.ValueObjects;
-using GeekShopping.CartApi.Model;
 using GeekShopping.CartApi.Model.Context;
 using GeekShopping.CartApi.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
@@ -143,6 +142,16 @@ namespace GeekShopping.CartAPI.Repository
                 }
             }
             return _mapper.Map<CartVO>(cart);
+        }
+
+        public Task<CartVO> SaveOrUpdateCart(CartVO cart)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<CartVO> ICartRepository.FindCartByUserId(string userId)
+        {
+            throw new NotImplementedException();
         }
     }
 }
