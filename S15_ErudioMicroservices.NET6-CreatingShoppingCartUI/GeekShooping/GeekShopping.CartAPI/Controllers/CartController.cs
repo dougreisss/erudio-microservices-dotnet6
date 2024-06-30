@@ -89,7 +89,7 @@ namespace GeekShopping.CartAPI.Controllers
 
             // TASK RabbiqMQ logic comes here!
 
-            _rabbitMQSender.SendMessage(vo, "checkoutQueue");
+            _rabbitMQSender.SendMessage(vo, "checkoutqueue");
 
             return Ok(vo);
         }

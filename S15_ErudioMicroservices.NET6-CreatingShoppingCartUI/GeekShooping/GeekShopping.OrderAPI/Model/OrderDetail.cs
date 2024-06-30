@@ -1,5 +1,6 @@
 ﻿using GeekShopping.CartAPI.Model.Base;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Net.Http.Headers;
 
 namespace GeekShopping.OrderAPI.Model
 {
@@ -12,7 +13,7 @@ namespace GeekShopping.OrderAPI.Model
         public virtual OrderHeader OrderHeader { get; set; }
 
         [Column("ProductId")]
-        public long ProductId { get; set; }
+        public long ProductId { get; set; } 
 
         [Column("count")]
         public int Count { get; set; }
