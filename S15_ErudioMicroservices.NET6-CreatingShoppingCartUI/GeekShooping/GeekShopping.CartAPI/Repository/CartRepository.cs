@@ -2,6 +2,7 @@
 using GeekShopping.CartAPI.Data.ValueObjects;
 using GeekShopping.CartAPI.Model;
 using GeekShopping.CartAPI.Model.Context;
+using GeekShopping.CartAPI.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Expressions;
 using System;

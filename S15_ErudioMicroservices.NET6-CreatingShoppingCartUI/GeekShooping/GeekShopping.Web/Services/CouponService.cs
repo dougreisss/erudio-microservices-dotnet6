@@ -6,7 +6,7 @@ using System.Net.Http.Headers;
 
 namespace GeekShopping.Web.Services
 {
-    public class CouponService : ICouponService
+    public class CouponService : ICouponService 
     {
         private readonly HttpClient _client;
         public const string BasePath = "api/v1/coupon";
