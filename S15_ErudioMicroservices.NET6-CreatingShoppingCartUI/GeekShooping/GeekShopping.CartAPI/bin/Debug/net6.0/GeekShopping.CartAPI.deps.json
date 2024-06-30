@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper": "12.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
+          "GeekShopping.MessageBus": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.13",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.13",
           "Pomelo.EntityFrameworkCore.MySql": "6.0.2",
@@ -264,6 +265,18 @@
           }
         }
       },
+      "RabbitMQ.Client/6.8.1": {
+        "dependencies": {
+          "System.Memory": "4.5.5",
+          "System.Threading.Channels": "7.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.8.1.0"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.5.0": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -335,8 +348,25 @@
           }
         }
       },
+      "System.Memory/4.5.5": {},
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
-      "System.Security.Cryptography.Cng/4.5.0": {}
+      "System.Security.Cryptography.Cng/4.5.0": {},
+      "System.Threading.Channels/7.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Threading.Channels.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "GeekShopping.MessageBus/1.0.0": {
+        "dependencies": {
+          "RabbitMQ.Client": "6.8.1"
+        },
+        "runtime": {
+          "GeekShopping.MessageBus.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -548,6 +578,13 @@
       "path": "pomelo.entityframeworkcore.mysql/6.0.2",
       "hashPath": "pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512"
     },
+    "RabbitMQ.Client/6.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jNsmGgmCNw2S/NzskeN2ijtGywtH4Sk/G6jWUTD5sY9SrC27Xz6BsLIiB8hdsfjeyWCa4j4GvCIGkpE8wrjU1Q==",
+      "path": "rabbitmq.client/6.8.1",
+      "hashPath": "rabbitmq.client.6.8.1.nupkg.sha512"
+    },
     "Swashbuckle.AspNetCore/6.5.0": {
       "type": "package",
       "serviceable": true,
@@ -604,6 +641,13 @@
       "path": "system.identitymodel.tokens.jwt/6.10.0",
       "hashPath": "system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512"
     },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -617,6 +661,18 @@
       "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
       "path": "system.security.cryptography.cng/4.5.0",
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    },
+    "System.Threading.Channels/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
+      "path": "system.threading.channels/7.0.0",
+      "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
+    },
+    "GeekShopping.MessageBus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

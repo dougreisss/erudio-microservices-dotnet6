@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuNr/2+62caje5RZ4Z6W27kLUZiWMVYXNOnA7GZ1YG/JtZt7m4goNPEP5oh9ucYs2hCBsLziXTVZ5f8QtTmo9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\\GeekShooping\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dougl\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

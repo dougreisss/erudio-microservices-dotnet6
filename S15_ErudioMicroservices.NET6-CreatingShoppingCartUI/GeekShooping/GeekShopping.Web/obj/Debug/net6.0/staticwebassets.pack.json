@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\geek_shopping.png"
     },
     {
+      "Id": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\\GeekShooping\\GeekShopping.Web\\wwwroot\\images\\order.png",
+      "PackagePath": "staticwebassets\\images\\order.png"
+    },
+    {
       "Id": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\\GeekShooping\\GeekShopping.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

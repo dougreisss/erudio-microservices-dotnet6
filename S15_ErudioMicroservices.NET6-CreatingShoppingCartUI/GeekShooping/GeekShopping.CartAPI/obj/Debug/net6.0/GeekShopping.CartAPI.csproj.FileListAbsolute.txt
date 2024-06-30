@@ -100,3 +100,7 @@ C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_Eru
 C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
 C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
 C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\GeekShooping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\Dougl\Documents\Estudo\UdemyDotNet\erudio-microservices-dotnet6\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\GeekShooping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb

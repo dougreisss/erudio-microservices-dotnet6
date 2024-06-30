@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FPF4aS5aIAlSbTQRNslbaTKlmB93ei1POBbxSdLwbvqYkiLrmlD5BrWqJZITA5dMf9VZ+GpbVAfIm02TMdAFNg==",
+  "dgSpecHash": "TZd9daKiB8u6IA8QDcj4fYUE7Fkceh6ROQHBBYstsvDqUub9KvlhkuF4ZFT7Mdq+IbORTgrtxAaCb42x2wj5qw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dougl\\Documents\\Estudo\\UdemyDotNet\\erudio-microservices-dotnet6\\S15_ErudioMicroservices.NET6-CreatingShoppingCartUI\\GeekShooping\\GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\Dougl\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
@@ -41,8 +42,10 @@
     "C:\\Users\\Dougl\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\Dougl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\Dougl\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\Dougl\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
