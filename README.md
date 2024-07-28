@@ -1,1 +1,0 @@
-# erudio-microservices-dotnet6
